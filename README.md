@@ -21,7 +21,7 @@ const nameHolder = require("name-holder");
 `name-holder` also have some named exports
 
 ```js
-import { nickName, petName } from "./index";
+import { nickName, petName } from "name-holder";
 ```
 
 ### Example
