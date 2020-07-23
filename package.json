@@ -1,0 +1,15 @@
+{
+  "name": "name-holder",
+  "version": "1.0.0",
+  "description": "Generate random names as array or string",
+  "main": "index.js",
+  "keywords": [
+    "name",
+    "holder",
+    "placeholder",
+    "random",
+    "generate"
+  ],
+  "author": "Albin",
+  "license": "ISC"
+}
