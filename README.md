@@ -40,7 +40,7 @@ First parameter is gender _(optional)_
 nameHolder("f");
 ```
 
-- Generate a string of 2 female names separated by comma (`', '`)
+- Generate a string of 2 male names separated by comma (`', '`)
 
 ```js
 nameHolder("m", 2);
