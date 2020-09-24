@@ -1,6 +1,6 @@
 # name-holder
 
-Generate random names as array or string
+Generate random name for your project.
 
 ### Install
 
